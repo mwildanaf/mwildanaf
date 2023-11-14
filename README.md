@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Wildan Alif Fahreza</h1>
-<h3 align="center">Currently focusing on mobile development</h3>
+<h3 align="center">Currently learning on mobile development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilelilac&label=Profile%20views&color=0e75b6&style=flat" alt="wilelilac" /> </p>
 
