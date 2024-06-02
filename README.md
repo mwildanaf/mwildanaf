@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Wildan</h1>
+<h1 align="center">Greetings</h1>
 <h3 align="center">Currently learning on mobile development mainly using kotlin</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wilelilac&label=Profile%20views&color=0e75b6&style=flat" alt="wilelilac" /> </p>
